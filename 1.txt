@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conteúdo
+=======
+asjldcnsldc
+>>>>>>> c35159ba5777f9c5a17b68408a6186ebaf7515e2
